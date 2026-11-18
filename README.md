@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="SteamLady logo" width="360">
+<img src="Untitled design_20261118_222507_0000.png" alt="SteamLady logo" width="360">
 
 # S T E A M L A D Y
 
